@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- 😄 I'm a fourth year UBC student major in Computer Science
+- 🌱 I’m currently learning Django and Kubernetes
+- 👯 I’m going to join the Activision / Demonware family in September
+- 📫 How to reach me: xiaruiyuan2002@gmail.com
+
+
 <!--
 **RUIYUANXia/RUIYUANXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
