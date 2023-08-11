@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Django and Kubernetes
 - 👯 I’m going to join the Activision / Demonware family in September
 - 📫 How to reach me: xiaruiyuan2002@gmail.com
+- ⚡ [Personal Webiste](https://ruiyuanxia.github.io/personal-web/)
 
 
 <!--
