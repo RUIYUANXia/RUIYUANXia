@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 - 😄 I'm a fourth year UBC student major in Computer Science
-- 🌱 I’m currently learning Django and Kubernetes
-- 👯 I’m going to join the Activision / Demonware family in September
+- 🌱 I previously worked at Microsoft Activision for a year-long internship as a Full Stack Data Engineer.
 - 📫 How to reach me: xiaruiyuan2002@gmail.com
 - ⚡ [Personal Webiste](https://ruiyuanxia.github.io/personal-web/)
 
