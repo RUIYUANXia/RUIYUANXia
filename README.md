@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 😄 I'm a fourth year UBC student major in Computer Science
+- 😄 I'm a fourth year UBC student major in Computer Science. (graduate in June 2025)
 - 🌱 I previously worked at **Microsoft | Activision** for a year-long internship as a **Full Stack Data Engineer**.
 - 📫 How to reach me: xiaruiyuan2002@gmail.com
 - ⚡ **[Personal Webiste](https://ruiyuanxia.github.io/personal-web/)**
