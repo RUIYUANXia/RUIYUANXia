@@ -1,10 +1,17 @@
-### Hi there 👋
 
-- 😄 I'm a fourth year UBC student major in Computer Science. (graduate in June 2025)
-- 🌱 I previously worked at **Microsoft | Activision** for a year-long internship as a **Full Stack Data Engineer**.
-- 📫 How to reach me: xiaruiyuan2002@gmail.com
-- ⚡ **[Personal Webiste](https://ruiyuanxia.github.io/personal-web/)**
+### 🌟 About Me
 
+- **🎓 Education:** Fourth-year Computer Science student at UBC
+- **💼 Experience:** Former Full Stack Data Engineer Intern at Microsoft | Activision
+- **📅 Graduation:** June 2025
+- **🌐 Portfolio:** [Personal Website](https://ruiyuanxia.github.io/personal-web/)
+
+---
+
+#### 📫 Let's Connect
+
+- **Email:** xiaruiyuan2002@gmail.com
+- **LinkedIn:** [Ruiyuan Xia](https://www.linkedin.com/in/ryxia2002/)
 
 <!--
 **RUIYUANXia/RUIYUANXia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
