@@ -1,7 +1,7 @@
 ### 🌟 About Me
 
 - **🎓 Education:** 2025 Computer Science (B.Sc.) graduate from the University of British Columbia (UBC)
-- **💼 Current Role:** International Delivery Engineer at Iwhalecloud
+- **💼 Current Role:** International Delivery Engineer at Whale Cloud
 - **🔙 Previous Experience:** Full Stack & Data Engineer Intern at Microsoft | Activision
 - **🌐 Portfolio:** [Personal Website](https://ruiyuanxia.github.io/personal-web/)
 
